@@ -11,7 +11,7 @@ And this is where adaptive-M-Sync enters the party. A lightweight script that au
 ### Step 1: Paths
 
 Set the paths of the applications with which you want to activate your different cursor speed.
-Add these paths to the ```$paths``` array. Also change the path to ```MouseSpeed.ps1```.
+Add these paths to the ```$paths``` array.
 
 ### Step 2: Cursor Speed
 

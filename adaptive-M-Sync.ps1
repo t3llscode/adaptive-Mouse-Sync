@@ -1,4 +1,4 @@
-"C:\path\to\your\MouseSpeed.ps1" # Thanks to raevilman https://github.com/raevilman/windows-scripts
+. .\MouseSpeed.ps1 # Thanks to raevilman https://github.com/raevilman/windows-scripts
 
 while ($true) {
     # default cursor speed:
