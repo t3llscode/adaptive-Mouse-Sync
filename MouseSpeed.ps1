@@ -1,3 +1,5 @@
+# This code is from raevilman https://github.com/raevilman/windows-scripts
+
 <#
 	.SYNOPSIS
 		Sets mouse parameters.
