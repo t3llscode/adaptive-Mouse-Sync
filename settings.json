@@ -1,8 +1,8 @@
 {
-    "nameANDspeed": [ // ["processName", mouseSpeedIfOpen]
+    "nameANDspeed": [
         ["csgo", 1],
         ["VALORANT", 1]
     ],
-    "default" : 10, // default cursor speed
-    "interval" : 1  // interval at which the script is run
+    "default" : 10, 
+    "interval" : 1  
 }

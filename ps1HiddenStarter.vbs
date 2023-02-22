@@ -8,6 +8,4 @@ scriptPath = scName.BuildPath(path, file)
 
 psParams = "PowerShell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -NonInteractive -File "
 
-' shObj.Run "cmd /c echo " & psParams & """" & scriptPath & """" & " """ & path & """" & "| clip", 0, True
-
 shObj.Run(psParams & """" & scriptPath & """" & " """ & path & """"), 0
