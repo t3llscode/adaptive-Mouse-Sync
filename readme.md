@@ -8,15 +8,11 @@ Turns out a DPI that high is not that compatible with normal mouse movement outs
 
 And this is where adaptive-M-Sync enters the party. A lightweight script that automatically changes the cursor speed, if an FPS game is open.
 
-- - -
-
 ## How It Works
 
 The Task Scheduler starts `ps1HiddenStarter.vbs` on logon. As argument it passes the script to start (`adaptive-M-Sync.ps1`).
 
 This script will now change the mouse speed according to the open applications. Since a simple registry edit does not update the speed, `MouseSpeed.ps1 created by [raevilman](https://github.com/raevilman/windows-scripts) is used.
-
-- - -
 
 ## The Setup
 
