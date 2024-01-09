@@ -1,4 +1,4 @@
-# adaptive-M-Sync
+# adaptive-Mouse-Sync
 
 ## The Idea
 
